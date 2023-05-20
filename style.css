@@ -42,10 +42,13 @@ button{
     font-weight: bold;
     padding: 10px 0; 
     margin-top: 2rem;
+    
+    border-radius: 40px;
 }
 
 button:hover{
-
+    background-color: blue;
+    color: white;
 }
 
 div{
